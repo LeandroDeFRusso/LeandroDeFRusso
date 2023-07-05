@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Olá,Tudo bem? Meu nome é Leandro 🙃</h1>
+<h3 align="center">Estou graduando no curso de Engenharia de Software no Brasil</h3>
 
-<!--
-**LeandroDeFRusso/LeandroDeFRusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📩 **Me contate, caso necessário, pelo seguinte e-mail leandro.russo@edu.unifil.br**
 
-Here are some ideas to get you started:
+- 💻 **Trabalho na área da contabilidade e sou estudante de Engenharia de Software.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📕 **Minhas habilidades são facilidade de aprendizagem, pró atividade e determinação.**
+
+
+
+<h3 align="left">Ferramentas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+
